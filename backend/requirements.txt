@@ -12,7 +12,7 @@ aiosqlite==0.20.0
 pdfplumber==0.11.4
 python-pptx==1.0.2
 python-docx==1.1.2
-Pillow==10.4.0
+Pillow==12.2.0
 
 # OCR (optional - may skip if not installed)
 # paddleocr==2.9.1
